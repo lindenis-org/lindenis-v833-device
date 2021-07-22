@@ -8,7 +8,7 @@ version = "100"
 machine = "lindenis"
 
 [platform]
-eraseflag   = 0
+eraseflag   = 1
 ;----------------------------------------------------------------------------------
 ;   system configuration
 ;   ?
